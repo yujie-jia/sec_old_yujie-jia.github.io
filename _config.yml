@@ -21,20 +21,20 @@ repository               : "https://yujie-jia.github.io/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "jyj_profile.png"
+  avatar           : "profile.png"
   name             : "Yujie Jia"
   pronouns         : # example: "she/her"  
   bio              : "Undergraduate"
   location         : "Guangzhou, China"
   employer         : "South China University of Technology"
-  uri              : "https://yujie-jia.github.io/"
+  uri              : # URL
   email            : "2230481080@mail.scut.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : # URL
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : # URL
   semantic         : # URL
   pubmed           : # URL
   researchgate     : # URL
